@@ -1,0 +1,4 @@
+Data Type
+Type Cast
+Variable
+User input
