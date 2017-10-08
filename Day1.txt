@@ -1,0 +1,26 @@
+At first download python 3.6 from https://www.python.org/.
+Install python and add to environment variable.
+
+Now you can programm with python.
+For that- 
+Open CMD & type python
+then you can write python commands.
+for print something type:
+
+print("What ever you want")
+
+you can program using notpad or any text editor.
+for that open a file with .py extension and write python commands. 
+for run this program you should open cmd, navigate to this file location and type:
+
+python name.py
+
+then enter.
+
+For better programming you can use IDE.
+For that download Pycharm IDE from https://www.jetbrains.com/pycharm-edu/ 
+Install it and run python command here.
+
+
+All the best.
+Keep coding Python, Be Pythonist.
